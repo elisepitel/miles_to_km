@@ -20,7 +20,7 @@ miles_label.grid(row=1, column=3)
 equal_label = Label(text='is equal to')
 equal_label.grid(row=2, column=1)
 
-km_label = Label(text='Km(s)')
+km_label = Label(text='Km')
 km_label.grid(row=2, column=3)
 
 result_label = Label(text='0')
